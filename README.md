@@ -21,7 +21,7 @@ PPT : https://www.canva.com/design/DAGlJmxNq-0/Wo2o85-RFYjPMxT2cYRCxA/view?utm_c
 
 ---
 
-## 🎮 Game Flow (with Images)
+## 🎮 Game Flow
 
 1. **Start at the Terminal**  
    Users are greeted with a retro terminal interface. Type `help` to see available commands and games.  
